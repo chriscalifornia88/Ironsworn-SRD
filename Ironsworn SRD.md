@@ -2121,7 +2121,7 @@ Don’t get mired in building the detail of your setting before you start playin
 
 ### Legacies
 1. We are the first humans to walk these lands.<br><br>_Quest Starter: In the writings of one of the first settlers, there is a description of a glade in the heart of the Deep Wilds. What will you find there?_<br><br>
-2. Other humans sailed here from the Old World untold years ago, but all that is left of them is a savage, feral people we call the broken. Is their fate to become our own?<br><br>_Quest Starter: You find a child  —one of the broken. It is wounded, and hunted by others of its kind. Do you protect it, even at the risk of inviting the wrath of the broken tribes?_<br><br>
+2. Other humans sailed here from the Old World untold years ago, but all that is left of them is a savage, feral people we call the broken. Is their fate to become our own?<br><br>_Quest Starter: You find a child — one of the broken. It is wounded, and hunted by others of its kind. Do you protect it, even at the risk of inviting the wrath of the broken tribes?_<br><br>
 3. Before the Ironlanders, before even the firstborn, another people lived here. Their ancient ruins are found throughout the Ironlands.<br><br>_Quest starter: Miners uncovered an underground ruin. Thereafter, the people of the settlement are suddenly becoming sick. Several have gone missing in the ruins — including someone important to you._
 
 ### Communities
@@ -2660,7 +2660,7 @@ Depending on the result of your Swear an Iron Vow move, your character may have 
 ## Campaign Setup Summary
 1. **Create your character.** Envision your character. Choose your name, set your stats, and select your assets. If you prefer, you can start by creating your world (below). 
 2. **Create your world.** If you are playing in the Ironlands, refer to the ‘Your Truths’ exercise. Otherwise, establish the basic truths of your own world. Envision where your story will begin and mark it on your map. 
-3. **Create your background bonds.* Mark up to three bonds to represent your connections to home, friends, family, or other loyalties. Make note of these bonds, and mark a tick for each. 
+3. **Create your background bonds.** Mark up to three bonds to represent your connections to home, friends, family, or other loyalties. Make note of these bonds, and mark a tick for each. 
 4. **Write your background vow.** Create a sworn quest as backstory for your character. Write down this vow and give it a rank of extreme or epic. You don’t need to make the Swear an Iron Vow move for this quest.
 5. **Envision your inciting incident.** Come up with the problem that drives your character into action. 
 6. **Set the Scene.** Decide whether you want to start with a prologue (the normal world), or in the midst of the problem (in media res). Envision the scene and begin play.
