@@ -594,7 +594,7 @@ Ironsworn assets are formatted as printable cards. Put them alongside your chara
 
 #### Asset Types
 
-There are four types of assets: Companions, paths, combat talents, and rituals. You can mix-and-match assets as you like—whatever fits your vision for your character and their experiences and goals.
+There are four types of assets: Companions, paths, and combat talents. You can mix-and-match assets as you like—whatever fits your vision for your character and their experiences and goals.
 
 ##### Companions
 
@@ -604,19 +604,13 @@ Companions utilize a health track and may suffer harm as a result of one of your
 
 ##### Paths
 
-Paths represent your background, interests, training, and skills. They provide mechanical and narrative advantages, but also reflect who you are and how you interact with the world. For example, a Ritualist would likely have a different outlook than a Veteran. Choosing both those paths can reflect an evolution of your character or an interesting background.
+Paths represent your background, interests, training, and skills. They provide mechanical and narrative advantages, but also reflect who you are and how you interact with the world. Choosing both those paths can reflect an evolution of your character or an interesting background.
 
 ##### Combat Talents
 
 Ironsworn characters are assumed to be skilled fighters. Even without a combat talent, you can wield weapons and perform combat moves. A combat talent reflects a particular area of expertise, and gives you additional options and bonuses.
 
 Combat talent assets typically require you to wield a specific weapon, as noted in the asset text. For example, if you are a Shield-Bearer and don’t have a shield at the ready, you can’t use the asset’s abilities.
-
-##### Rituals
-
-​Magic in Ironsworn is cast through rituals which help support your actions or act as unique moves. Like all assets, rituals can be selected as you gain experience and can be upgraded over time to make them more flexible or powerful.
-
-All rituals utilize a move as their default marked ability. You must make this move and the associated action roll to trigger the effect. Any secondary abilities you gain by upgrading the asset are dependent on performing the ritual described as the default ability.
 
 #### Acquiring Assets
 
@@ -628,7 +622,6 @@ For example:
 
 * Banner-Sworn requires that you have marked a bond with a leader or faction. If you have an appropriate background bond, or have made the Forge a Bond move with a leader or faction, you may add the asset.
 * Battle-Scarred requires that you are maimed. If you have marked the debility, you may add the asset.
-* Ritualist requires that you Fulfill Your Vow in service to an elder mystic, and Forge a Bond to train with them. Once you’ve done that, you may add the asset.
 
 For assets without a requirement, you should consider the narrative justification when you add it to your character. What have you done to gain these abilities? How have your goals changed to support this new focus? Make your selection meaningful in the context of your story.
 
@@ -646,7 +639,7 @@ Assets provide one or more functions.
 * They allow you to alter the outcome of a move by rerolling dice.
 * They provide improved outcomes for successful moves, such as taking +1 momentum on a hit.
 * They give you an option to exchange one resource for another, such as trading momentum for inflicting additional harm.
-* They allow you to use moves in unusual circumstances, such as using the Scrying ritual to Gather Information remotely.
+* They allow you to use moves in unusual circumstances.
 * They allow you to use a different stat instead of the one normally required by a move.
 * They provide unique self-contained moves.
 * They add narrative detail and create situations where you can reveal more about your character or your world.
@@ -656,8 +649,6 @@ Follow the directions on the asset to apply its abilities to your current situat
 #### Ability Requirements
 
 Narrative circumstances and the outcome of failed moves may force you into situations where you can’t leverage a key asset, making your adventure more challenging and dramatic.
-
-For example, if you don’t have a animal pelt, you can’t perform the Bind ritual. If you Undertake a Journey without your Horse companion, you won’t gain the bonus. If you are an Archer who’s run out of arrows, you’ll have to try something else. Before you make a move using an asset, take a moment to ensure you are properly positioned and equipped to use those abilities.
 
 #### Using Companion Abilities
 
@@ -676,14 +667,6 @@ If your companion is killed, give yourself 1 experience point for each marked ab
 #### Failing an Asset Move
 
 For the sake of brevity, moves within an asset do not usually describe the result of a miss. If an asset offers a self-contained move, and doesn’t provide a specific consequence for a miss, you can leverage the miss result of the Face Danger move : “On a miss, you fail, or your progress is undermined by a dramatic and costly turn of events. Pay the Price.” In short, make something negative happen as appropriate to the circumstances.
-
-##### Failed Rituals
-
-Dabbling in the mystic arts is dangerous, and the results can be unpredictable. If the ritual goes wrong, envision what sort of backlash might be possible, or Ask for Inspiration.
-
-Failing a ritual might also lead to an entirely mundane result. Perhaps you were ambushed in the midst of the ritual. Or, you waste time (suffer -momentum) or resources (suffer -supply). You might choose to save any overt supernatural backlash for special circumstances, such as when you roll a match.
-
-To start, select three assets. Since this is a key aspect of your character, feel free to choose assets as the first step in character creation. You can let your assets guide your concept, or vice versa.
 
 ### Experience
 
@@ -1652,14 +1635,11 @@ If you score a miss and your debilities are already marked, you have no choice. 
 
 #### Face Death
 
-When you are brought to the brink of death, and glimpse the world beyond, roll +heart.
+When you are brought to the brink of death, with a chance for recovery or redemption, roll +heart.
 
-On a strong hit, death rejects you. You are cast back into the mortal world.
+On a strong hit, you regain consciousness and survive.
 
-On a weak hit, choose one.
-
-* You die, but not before making a noble sacrifice. Envision your final moments.
-* Death desires something of you in exchange for your life. Envision what it wants (Ask for Inspiration if unsure), and Swear an Iron Vow (formidable or extreme) to complete that quest. If you fail to score a hit when you Swear an Iron Vow, or refuse the quest, you are dead. Otherwise, you return to the mortal world and are now cursed. You may only clear the cursed debility by completing the quest.
+On a weak hit, you die, but not before making a noble sacrifice. Envision your final moments.
 
 On a miss, you are dead.
 
@@ -1750,12 +1730,9 @@ When you are brought to the brink of desolation, roll +heart.
 
 On a strong hit, you resist and press on.
 
-On a weak hit, choose one.
+On a weak hit, your spirit or sanity breaks, but not before you make a noble sacrifice. Envision your final moments.
 
-* Your spirit or sanity breaks, but not before you make a noble sacrifice. Envision your final moments.
-* You see a vision of a dreaded event coming to pass. Envision that dark future (Ask for Inspiration if unsure), and Swear an Iron Vow (formidable or extreme) to prevent it. If you fail to score a hit when you Swear an Iron Vow, or refuse the quest, you are lost. Otherwise, you return to your senses and are now tormented. You may only clear the tormented debility by completing the quest.
-
-On a miss, you succumb to despair or horror and are lost.
+On a miss, you succumb to despair and are lost.
 
 You make this move when forced to Face Desolation as a result of a miss on the Endure Stress move. This represents the potential breaking point for your character. Do you push on in spite of all you have seen, all you have done, or do you fall into darkness?
 
