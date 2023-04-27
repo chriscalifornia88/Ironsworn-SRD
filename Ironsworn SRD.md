@@ -1943,8 +1943,6 @@ When you’re unsure what a match might mean, you can roll on another inspiratio
 In guided play, your GM is the inspiration. You won’t make this move unless you are talking things out and need a random result or a bit of inspiration. Your GM can use this move (or ask you to make it) to help guide the story.
 
 # PART FOUR: YOUR WORLD
-
-## Welcome to the Ironlands
 The Ironlands is a vast peninsula in the northern ocean. The people who now refer to themselves as Ironlanders settled here two generations ago, cast out of their homelands by a catastrophic event. Since that time, they have survived but not prospered. The Ironlands are a harsh, dangerous place. The winters are long and brutal. Harvests are uncertain.
 
 This section includes a brief summary for each major region of the Ironlands. It also includes a section where you define the characteristics, dangers, and lore of your own Ironlands, creating a setting customized to your vision and preferences.
@@ -1967,7 +1965,7 @@ Generally, don’t sweat it. Travel should move at the speed of your story. Don�
 
 ![Regions of the Ironlands](https://raw.githubusercontent.com/chriscalifornia88/Ironsworn-SRD/main/images/regions.png)
 
-### Barrier Islands
+## Barrier Islands
 Features:
 * Crashing waves and treacherous currents 
 * Jagged rocks hidden just beneath the surface 
@@ -1983,7 +1981,7 @@ This long string of islands parallels the Ragged Coast. They are beautiful, but 
 
 The islands are sparsely populated by Ironlanders, mostly fisher-folk who brave the surrounding waters. Their settlements cling to narrow, rock-strewn shores or lie on high overlooks. At night, the dim lights of their fires and torches glimmer pitifully against the wild, storm-tossed sea.
 
-### Ragged Coast
+## Ragged Coast
 Features:
 * Narrow fjords 
 * Settlements built on rocky shores 
@@ -1999,7 +1997,7 @@ Ironlander settlements are located at the head of the fjords in the shelter of n
 
 In the center of each settlement, at the front of the longhouse, a stack of marked river stones memorialize those who did not return—one stone for each of the lost.
 
-### Deep Wilds
+## Deep Wilds
 Features:
 * Unbroken woodland 
 * A thick canopy casts the forest floor in shadow 
@@ -2014,7 +2012,7 @@ The Deep Wilds are a vast swath of ancient forest. The ground is a lush carpet o
 
 A few Ironlanders live along the fringes of the Deep Wilds, taking advantage of the relatively temperate climate and abundant game. However, most avoid this region. This is a land of the firstborn. This is the world before humans.
 
-### Flooded Lands
+## Flooded Lands
 Features:
 * Fetid wetlands
 * Biting insects 
@@ -2029,7 +2027,7 @@ A few hardy Ironlanders live here in small settlements built atop hillocks, or i
 
 Travel is precarious here. One step has you on solid ground. The next sends you plunging through a thin layer of peat into a murky bog.
 
-### Havens
+## Havens
 Features:
 * Rolling hills and rocky bluffs 
 * Pockets of dense wood, thick with shadow 
@@ -2044,7 +2042,7 @@ Years later, that hope is fading. Even within the Havens, there is little rest o
 
 The Ironlander settlements in this region typically stand on hills or at the confluence of rivers. The buildings are made of wood, or sometimes stone, with roofs covered in turf. The central homes and communal structures are protected by an outer palisade fashioned from earth and wood. Outside these walls, from spring through autumn, farmers work the meager fields. In winter, the settlements are smothered by deep snow and oppressive gray clouds.
 
-### Hinterlands
+## Hinterlands
 Features:
 * Dense forests nestled against rugged terrain 
 * Hunter camps and remote settlements 
@@ -2061,7 +2059,7 @@ Those winters are bitter and harsh. Snow gathers as deep as an Ironlander is tal
 
 In the spring and summer, the melting snow feeds tumultuous rivers. The forests burst with rich life. But, always there is a chill in the air. Always there is a reminder of the coming winter.
 
-### Tempest Hills
+## Tempest Hills
 Features:
 * Stunted forests 
 * Howling winds 
@@ -2077,7 +2075,7 @@ Nomadic Ironlanders live among the hills, herding livestock. In the spring and s
 
 Others live in mining settlements, drawing iron ore from riverbeds and shallow digs. Their furnaces, sending up plumes of black smoke, convert the ore into wrought iron, which is sent south for trade with the Havens.
 
-### Veiled Mountains
+## Veiled Mountains
 Features:
 * Massive peaks shrouded in roiling clouds 
 * Howling beasts 
@@ -2089,7 +2087,7 @@ Commonly referred to as the Veils, these great mountains mark the northern bound
 
 For a few, that feeling is a call rather than a warning. The Ironlanders who dwell here are mostly members of small mining communities. They seek fortunes in iron or silver, but often find only death in the endless, brutal cold. Even those who manage to eke out some sort of life among the Veils are sure to head south before the onset of winter. Before the long dark takes hold.
 
-### Shattered Wastes
+## Shattered Wastes
 Features:
 * Vast fields of broken ice 
 * Discomforting stillness 
