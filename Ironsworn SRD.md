@@ -327,7 +327,7 @@ When you face physical injury or hardship, make the Endure Harm move. As part of
 * Extreme (4 harm): An overwhelming attack by a monster or beast, a grievous injury, or a debilitating effort.
 * Epic (5 harm): An attack by a legendary foe of mythic power, a horrific injury, or a consuming effort.
 
-When you are fighting a foe, they inflict harm based on their rank. [Sample foes are found in part 4](#part-four-foes-and-encounters).
+When you are fighting a foe, they inflict harm based on their rank. [Sample foes are found in part 5](#part-five-foes-and-encounters).
 
 If you are at 0 health, a miss on the Endure Harm move puts you at risk of suffering a debility or dying. You can recover health through rest and recuperation, using moves such as Heal, Make Camp, and Sojourn.
 
@@ -382,7 +382,7 @@ Keep in mind that—even when playing with a GM—Ironsworn is about shared stor
 
 #### More Randomness
 
-You’ll find a set of random tables in chapter 6. These provide inspirational prompts and random results for common situations. You can also use whatever random generators you prefer, including those drawn from another game, online generators, or visual tools such as tarot cards.
+You’ll find a set of random tables in chapter 6. These provide inspirational prompts and random results for common situations. You can also use whatever random generators you prefer, including those drawn from another game, or online generators.
 
 #### Trust Your Instincts
 
@@ -1988,8 +1988,6 @@ The final option is to seek inspiration through an open-ended question.
 
 If you’re in a game with other players, you can talk it out. Brainstorming together will lead you to interesting answers you might not have thought of on your own.
 
-You can also use random generators to help inspire an answer. See chapter 6 for creative prompts and random results. Or, use your preferred tools, such as an online generator for interesting names, or a set of tarot cards or rune stones for visual inspiration. When asking an open-ended question, use tools which offer a spark of inspiration instead of a definitive response. Your creative mind will lead you naturally from an abstract concept to a relevant answer, adding exciting and surprising dimension to your story.
-
 ##### Questions Upon Questions
 
 You can come back to the yes/no table and ask a follow-up question to clarify or affirm a result. However, you should avoid leaning too heavily on asking questions (or this move in general). Don’t let one question snowball into a series of more specific questions. Even when playing solo, inspiration should be the spice of your game, not the main course. Ask a question or two, decide what it means, and move on. When in doubt, follow your gut. Your first instinct is probably the right one. Go with it.
@@ -2004,7 +2002,165 @@ When you’re unsure what a match might mean, you can roll on another inspiratio
 
 In guided play, your GM is the inspiration. You won’t make this move unless you are talking things out and need a random result or a bit of inspiration. Your GM can use this move (or ask you to make it) to help guide the story.
 
-## PART FOUR: FOES AND ENCOUNTERS
+## PART FOUR: YOUR WORLD
+
+### Welcome to the Ironlands
+The Ironlands is a vast peninsula in the northern ocean. The people who now refer to themselves as Ironlanders settled here two generations ago, cast out of their homelands by a catastrophic event. Since that time, they have survived but not prospered. The Ironlands are a harsh, dangerous place. The winters are long and brutal. Harvests are uncertain.
+
+This section includes a brief summary for each major region of the Ironlands. It also includes a section where you define the characteristics, dangers, and lore of your own Ironlands, creating a setting customized to your vision and preferences.
+
+The detail here is intentionally light. Consider it a sketch on a canvas, ready to be adorned with the vibrant colors and details of your story.
+
+### Travel in the Ironlands
+When traveling through dangerous or unknown areas, make the Undertake a Journey move. You will set the rank of the journey as appropriate to the fictional circumstances—the distance, region, terrain, threats, and your character’s readiness. You should also consider its importance in your quest. A higher rank means more storyline dedicated to the journey. If you want to move quicker to your destination, give it a lower rank. If this journey represents an important aspect of your character’s story, or you want to create opportunities for interesting events and side quests, give it a higher rank.
+
+When in doubt, refer to the following for general guidelines, or Ask for Inspiration.
+* Traveling a moderate distance within a single region is **Troublesome**. 
+* Traveling a long distance within a single region, or across rough terrain, is **Dangerous**. 
+* Traveling from one region to another, or across especially challenging terrain, is **Formidable**. 
+* Traveling through multiple regions is **Extreme**. 
+* Traveling from one end of the Ironlands to another, or to a separate land, is **Epic**.
+
+Generally, don’t sweat it. Travel should move at the speed of your story. Don’t worry about exact measurements for distance or time. Give your journey a rank appropriate to the circumstances and your story, and make the move to see what happens.
+
+### Regions of the Ironlands
+
+![Regions of the Ironlands](https://raw.githubusercontent.com/chriscalifornia88/Ironsworn-SRD/main/images/regions.png)
+
+#### Barrier Islands
+Features:
+* Crashing waves and treacherous currents 
+* Jagged rocks hidden just beneath the surface 
+* Snow-dappled cliffs jutting out of the sea 
+* Low clouds and curling mists 
+* Ferocious winds 
+* Gliding seabirds 
+* Decaying wrecks of wooden ships 
+* Fisher-folk braving the wild sea 
+* Lurking seaborne raiders
+
+This long string of islands parallels the Ragged Coast. They are beautiful, but imposing. The slate-gray cliffs rise dramatically out of the water, topped by treeless moors. Waterfalls, fed by persistent rains, plunge over these cliffs into the raging sea. The winds are fierce and ever-present. In the winter, sleet, snow, and ocean mist can cut visibility to the length of one’s arm.
+
+The islands are sparsely populated by Ironlanders, mostly fisher-folk who brave the surrounding waters. Their settlements cling to narrow, rock-strewn shores or lie on high overlooks. At night, the dim lights of their fires and torches glimmer pitifully against the wild, storm-tossed sea.
+
+#### Ragged Coast
+Features:
+* Narrow fjords 
+* Settlements built on rocky shores 
+* Trade ships flying colorful sails 
+* Shipbuilders hammering at wooden hulls 
+* Raiders sounding the drums of war 
+* Schools of orca gliding through the waves 
+* Sea Serpents rising from unfathomable depths
+
+This coast is marked by massive fjords. It is a rugged land of snow-capped cliffs overlooking blue waters.
+
+Ironlander settlements are located at the head of the fjords in the shelter of narrow valleys. From there, both fisher-folk and raiders set sail. Their kin gather to see them off, laying wreaths of spruce in their wake.
+
+In the center of each settlement, at the front of the longhouse, a stack of marked river stones memorialize those who did not return—one stone for each of the lost.
+
+#### Deep Wilds
+Features:
+* Unbroken woodland 
+* A thick canopy casts the forest floor in shadow 
+* Lingering fog 
+* Constant rains 
+* Natives, ever watchful 
+* Ancient trees hung with moss 
+* Streams winding their way through rough terrain 
+* Skittering and growls from out of the mist
+
+The Deep Wilds are a vast swath of ancient forest. The ground is a lush carpet of ferns and lichens. The gnarled branches are cloaked in hanging moss. The air is almost perpetually misty and wet. Unlike the bordering regions, heavy snow is rare here. Instead, there is the ceaseless patter of rain dripping from high boughs and the rush of river over rock. The air carries the earthy smells of damp and decay.
+
+A few Ironlanders live along the fringes of the Deep Wilds, taking advantage of the relatively temperate climate and abundant game. However, most avoid this region. This is a land of the firstborn. This is the world before humans.
+
+#### Flooded Lands
+Features:
+* Fetid wetlands
+* Biting insects 
+* Dead trees poisoned by salt 
+* Networks of sluggish rivers
+* Creatures, just beneath the surface, laying in wait 
+* Ponds and lakes shrouded in clinging mist
+
+This is a low-lying region of bogs, swamps, lakes, and slow-moving rivers. Near the coast, the water is salty and riddled with dead trees. Further north, the morass of forested wetlands and bogs is interspersed with rare patches of higher ground. Through it all, twisting rivers make their sluggish journey to the sea. The smell of these lands is rotten and dank.
+
+A few hardy Ironlanders live here in small settlements built atop hillocks, or in homes standing on stilts over the wetlands. Most fish and forage, making their way among the waterways on flat-bottomed boats propelled by long poles. Some dig through peat for bog iron — a cold, wet, grueling task.
+
+Travel is precarious here. One step has you on solid ground. The next sends you plunging through a thin layer of peat into a murky bog.
+
+#### Havens
+Features:
+* Rolling hills and rocky bluffs 
+* Pockets of dense wood, thick with shadow 
+* Walled settlements 
+* Verdant heaths 
+* Wide rivers navigated by wary boatmen 
+* Long, harsh winters
+
+This is an expansive region of forests, rivers, shrubland, and low hills. After an arduous journey, after untold losses, the first Ironlander settlers looked upon the Havens as a fresh start — a relative oasis in a fierce, uncaring land. It gave them hope.
+
+Years later, that hope is fading. Even within the Havens, there is little rest or safety. The winters are long. The harvests are never enough. Raiders strike without mercy. The thick woods, deep rivers and dark nights hold secrets and lurking dangers.
+
+The Ironlander settlements in this region typically stand on hills or at the confluence of rivers. The buildings are made of wood, or sometimes stone, with roofs covered in turf. The central homes and communal structures are protected by an outer palisade fashioned from earth and wood. Outside these walls, from spring through autumn, farmers work the meager fields. In winter, the settlements are smothered by deep snow and oppressive gray clouds.
+
+#### Hinterlands
+Features:
+* Dense forests nestled against rugged terrain 
+* Hunter camps and remote settlements 
+* Birdsong interspersed with sudden, unsettling stillness 
+* Ironlanders, foraging and hunting game 
+* Hungry beasts, stalking 
+* Varou bands, howling their war song
+
+This high terrain consists of a long string of forested hills.
+
+Isolated Ironlander settlements in this region serve primarily as bases for hunters and trappers. A few farmers do the best they can with the rocky soil, but the people depend mostly on meat, mushrooms, berries, and other bounties from the forest to sustain them during the long winters.
+
+Those winters are bitter and harsh. Snow gathers as deep as an Ironlander is tall, or more. Hunters, cloaked in heavy furs, wear snowshoes to navigate across the rough terrain. At night, they make camp. They drink and tell stories. They try to ward away the encroaching darkness with a blazing fire. They cast nervous glances at sounds just beyond the light.
+
+In the spring and summer, the melting snow feeds tumultuous rivers. The forests burst with rich life. But, always there is a chill in the air. Always there is a reminder of the coming winter.
+
+#### Tempest Hills
+Features:
+* Stunted forests 
+* Howling winds 
+* Mist-shrouded waterfalls 
+* Mining settlements 
+* Nomad encampments on high plateaus 
+* Ironlander caravans hauling bounties of ore
+* Mammoths grazing in alpine meadows
+
+These highlands are defined by rugged hills and low mountains, thin conifer woods, and wide, grassy plateaus, leading up to the heights of the Veiled Mountains. Through most seasons, the constant ill-winds break against the sides of the hills, screeching and moaning. In the dead of winter, some say these winds carry the names of those fated to die during the long cold season.
+
+Nomadic Ironlanders live among the hills, herding livestock. In the spring and summer they move among high pastures. In the winter, they find some relief from the brutal weather in sheltered valleys.
+
+Others live in mining settlements, drawing iron ore from riverbeds and shallow digs. Their furnaces, sending up plumes of black smoke, convert the ore into wrought iron, which is sent south for trade with the Havens.
+
+#### Veiled Mountains
+Features:
+* Massive peaks shrouded in roiling clouds 
+* Howling beasts 
+* Endless snows 
+* Precarious mountain trails 
+* Abandoned settlements
+
+Commonly referred to as the Veils, these great mountains mark the northern bounds of the settled lands. They are almost perpetually shrouded in cloud, snow, and mist. On the rare day they are visible to those Ironlanders far south in the Havens, the sight of the towering peaks is enough to inspire a mix of fear and awe.
+
+For a few, that feeling is a call rather than a warning. The Ironlanders who dwell here are mostly members of small mining communities. They seek fortunes in iron or silver, but often find only death in the endless, brutal cold. Even those who manage to eke out some sort of life among the Veils are sure to head south before the onset of winter. Before the long dark takes hold.
+
+#### Shattered Wastes
+Features:
+* Vast fields of broken ice 
+* Discomforting stillness 
+* Deep crevasses, plunging into darkness 
+* Piercing cold
+
+To the north of the Veiled Mountains lies the Shattered Wastes, a plain of jagged, broken ice.
+
+No one knows the bounds of this land or what lies beyond. No Ironlanders dwell here, and only a handful have explored the passage into the Wastes through the Veils. Those who survived the journey returned with stories of unimaginable cold and things moving beneath the ice.
+
+## PART FIVE: FOES AND ENCOUNTERS
 
 An NPC (non-player character/creature) is anyone who inhabits your setting other than your character and those portrayed by your fellow players. They can be a person, being or creature. You will roleplay your interactions with NPCs, and make moves when you attempt to influence them, aid them, gain their help, or act against them.
 
@@ -2112,7 +2268,7 @@ For reoccurring NPCs, make note of what you learn of them over time. If you shar
 > * Fearsome roar
 > * Bash with tail
 
-## PART FIVE: INSPIRATION
+## PART SIX: INSPIRATION
 
 In Ironsworn, inspiration is anything which generates random results to help determine the outcome of a move, a detail in your world, an NPC action, or a narrative event.
 
@@ -2431,3 +2587,93 @@ Use this inspiration table when you want to randomly determine the challenge ran
 56-80 | Formidable
 81-93 | Extreme
 94-00 | Epic
+
+## PART SEVEN: GAMEPLAY IN DEPTH
+### Starting Your Campaign
+An Ironsworn campaign is a series of connected game sessions. You will explore your world and the life of your character as you swear vows and struggle to see them fulfilled. You will journey across the Ironlands, run afoul of troubles, fight fearsome foes, and form bonds with people and communities. Through it all, you make decisions as your character and explore what it means to be Ironsworn in a harsh land.
+
+To get started on your campaign, follow the steps described in this section.
+
+#### Create Your Character
+Refer to the character creation summary. Envision your character, considering their motivations, skills, background, appearance, personality, and connections to the world. Set your stats and pick your assets in whatever order you prefer. Give your character a name.
+
+If you are playing co-op or guided, talk over your character with the other players and establish your connections to each other. You can shorthand your ideas for now, and flesh them out in play.
+
+Feel free to intermix world creation and character creation. The choices you make about your setting may determine the options available to your character.
+
+#### Create Your World
+If you are playing in the Ironlands or a similar setting, work through the ‘Your Truths’ exercise. Review the options and make selections. Keep an eye out for quest starters which trigger an idea for a background vow or an inciting incident.
+
+Next, choose where your story begins. Have a look at the regions. Where are your characters located? Are they part of a community, or wandering the wilderness? Talk it out with other players and envision the setting. Mark the location on your map.
+
+If you prefer, you can just spend a few moments defining some basic facts for your world. Jump in and discover the rest in play.
+
+##### Collaborating to Build Your World
+If you are playing a co-op or guided campaign, you should work through the initial process of worldbuilding with the other players. Depending on your preferences, you can spend a few minutes quickly roughing out the basics of your setting, or you can dive deep for an hour or two of collaborative creation. Talk it over with the other players to ensure you have the same expectations for your initial session. Even if you give this initial activity some focus, leave open questions and blank spaces to fill in through play.
+
+If you are the GM, you should facilitate discussion and contribute to the worldbuilding. Take cues from the players and make suggestions to help formulate potential quests and adversaries.
+
+#### Mark Your Background Bonds
+Give yourself up to three bonds. These bonds may be to a community or an individual. You do not need to make the Forge a Bond move for these starting bonds. Mark a tick for each bond on your character sheet (1 tick per bond), and make note of them.
+
+If you are playing guided or co-op, you can use these starting bonds as your connection to other player characters. Otherwise, you may establish bonds with those characters though play.
+
+If you’d rather jump right into play, you can flesh out the details of your background bonds later. Consider these bonds held in reserve until you decide to bring them into your narrative. If you later introduce a background bond for a character or community, mark the bond. Then, envision how this bond was previously established and how this relationship impacts your story.
+
+#### Write Your Background Vow
+When you create your character, you give yourself a background vow to represent a primary motivation or ultimate goal. This vow is part of your character’s backstory. It may be a vow sworn years ago, or one which is a reaction to some recent, major event.
+
+Write down this vow and give it a rank of extreme or epic. You don’t need to make the Swear an Iron Vow move for this quest.
+
+Fulfilling this vow will not be easy. In story-time, it might require months, years, or even decades to see this vow fulfilled or forsaken. You may even decide your background vow isn’t something you make significant progress on in your narrative. Instead, it just helps establish some roleplaying detail for your character and fleshes out your world.
+
+#### Envision Your Inciting Incident
+An inciting incident is the problem which arrives at the beginning of a story, propelling the protagonist into action. Everything up to that point is backstory — the normal world to which your character has become accustomed. In Ironsworn, the inciting incident is the tipping point which forces you to undertake a life of perilous quests and adventure.
+
+To start your character’s story, envision an imminent threat or compelling need. You can talk it out at the table, or Ask for Inspiration. This problem dictates what drives your first session and sets your character’s story in motion.
+
+What makes a good inciting incident?
+* **Make it personal.** Why is this important to your character? Envision how this connects to your background and motivations. Also, consider how you can leverage story themes which are interesting to you as the player. 
+* **Make it a problem that won’t go away on its own.** The threats or forces at the heart of this situation will see it through, even if you ignore them. 
+* **Give it a ticking clock.** The problem won’t wait for you. If you don’t act or encounter delays, things will get worse. 
+* **Make it universal.** If you are playing with allies, make this a shared vow — important to each of you. This creates an opportunity to work together. If you are playing solo, make it a threat which impacts other people you care about.
+* **Up the stakes.** Envision complications which make your inciting incident even more dire for you, your family, or your community. 
+* **Limit the scope.** Unlike your background vow, this is a problem which you can (and must!) deal with now. In gameplay turns, you Swear an Iron Vow and mark it as a troublesome, dangerous, or formidable quest. If all goes well, it might be resolved in a session or two. If you don’t act, things will get worse.
+
+These suggestions can apply to any vow, but are especially relevant for an inciting incident. Even if the details are not clear to you, envision how the problem can lend itself to a rich narrative full of drama, conflict, and surprises.
+
+#### Set The Scene
+You have two options for starting play: You can begin with the normal world, or in media res.
+
+##### The Normal World
+Envision a prologue involving your character which helps to flesh out who you are and how you interact with your world. If you have allies, this is an opportunity to roleplay your relationships and introduce your personality and backgrounds. Your inciting incident can then serve as an event or threat which you encounter in play during your first session.
+
+If you are having trouble coming up with your initial quest, you can use the prologue to jump in and discover a dramatic situation through play. Ask questions about the characters, your world, and the current situation. Draw conclusions to those questions or Ask for Inspiration. Look for opportunities in the fiction to trigger a vow.
+
+##### In Media Res
+In media res is a Latin term meaning “in the middle of things.” You start your story at a crucial point. Your inciting incident is happening now, or is something you are fully aware of and must react to. The raiders are attacking. The usurper claims the iron circlet. The marauding beast appears.
+
+You can begin with a tense, action-oriented scene as you encounter the problem. Or, you might frame a scene where you Swear an Iron Vow, letting the result of that move trigger what happens next.
+
+#### Swear an Iron Vow
+To set your quest in motion, as a response to the inciting incident, make this move. But first, start with the fiction. Envision the scene. Describe what you say and how you perform the ceremony. This is an important moment for your character.
+
+What was the result of your move?
+* **Did you score a strong hit?** Envision your first steps. Do you Undertake a Journey? Do you Compel someone into action? Play to see what happens next, and make moves as appropriate. 
+* **Did you score a weak hit?** Your next steps are unclear. This may typically lead to new scenes and new moves. Perhaps you Gather Information as you try to identify a path forward. 
+* **Did you score a miss?** An unexpected danger or obstacle stands in your way. Envision what it is, or Ask for Inspiration. Then, play to see what happens as you attempt to overcome this stumbling block.
+
+For an inciting incident, give your new vow a rank of troublesome, dangerous, or formidable.
+
+#### Next Steps
+Depending on the result of your Swear an Iron Vow move, your character may have a clear path forward, may have more questions than answers, or may need to overcome an immediate obstacle or threat before they can undertake their quest. You, as the player or GM, interpret what this result means. Not sure where to begin? Ask for Inspiration.
+
+#### Campaign Setup Summary
+1. **Create your character.** Envision your character. Choose your name, set your stats, and select your assets. If you prefer, you can start by creating your world (below). 
+2. **Create your world.** If you are playing in the Ironlands, refer to the ‘Your Truths’ exercise. Otherwise, establish the basic truths of your own world. Envision where your story will begin and mark it on your map. 
+3. **Create your background bonds.* Mark up to three bonds to represent your connections to home, friends, family, or other loyalties. Make note of these bonds, and mark a tick for each. 
+4. **Write your background vow.** Create a sworn quest as backstory for your character. Write down this vow and give it a rank of extreme or epic. You don’t need to make the Swear an Iron Vow move for this quest.
+5. **Envision your inciting incident.** Come up with the problem that drives your character into action. 
+6. **Set the Scene.** Decide whether you want to start with a prologue (the normal world), or in the midst of the problem (in media res). Envision the scene and begin play.
+7. **Swear an Iron Vow.** Make the move and write down your vow. Give it a rank of troublesome, dangerous, or formidable. 
+8. **Take your next steps.** Based on the outcome of your Swear an Iron Vow move, envision what you do or what happens next. If you like, you may outline the milestones of your adventure. Then, play to see what happens.
