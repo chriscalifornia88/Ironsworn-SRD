@@ -265,7 +265,7 @@ When you face physical injury or hardship, make the Endure Harm move. As part of
 * Dangerous (2 harm): An attack by a skilled foe or deadly creature, a nasty injury, or a demanding effort.
 * Formidable (3 harm): An attack by an exceptional foe or mighty creature, a serious injury, or an exhausting effort.
 * Extreme (4 harm): An overwhelming attack by a monster or beast, a grievous injury, or a debilitating effort.
-* Epic (5 harm): An attack by a legendary foe of mythic power, a horrific injury, or a consuming effort.
+* Epic (5 harm): An attack by a legendary foe of great power, a horrific injury, or a consuming effort.
 
 When you are fighting a foe, they inflict harm based on their rank. [Sample foes are found in part 5](#part-five-foes-and-encounters).
 
@@ -511,7 +511,7 @@ Banes are permanent. They forever impact your character through the momentum pen
 
 If you are maimed, envision the injury and make note of it. Consider how this impacts your approach when facing physical challenges, and weave it into your roleplaying and the narrative of your moves.
 
-When you are corrupted, envision how this impacts your personality and motivations. You might struggle with a new compulsion, quirk, or fear. You might even bear a physical, supernatural sign of the corruption. If so, what is it?
+When you are corrupted, envision how this impacts your personality and motivations. You might struggle with a new compulsion, quirk, or fear. You might even bear a physical, sign of the corruption. If so, what is it?
 
 ### Burdens
 
@@ -1051,7 +1051,7 @@ You can intersperse Resupply or Make Camp moves during your journey to manage yo
 
 #### On a Miss
 
-You do not mark progress on a miss. Instead, you encounter a new danger. You might face hazards through the weather, the terrain, encounters with creatures or people, attacks from your enemies, strange discoveries, or supernatural events. Decide what happens based on your current circumstances and surroundings, roll on the Pay the Price table, or Ask for Inspiration for inspiration. Depending on your desired narrative pace, you can then play out the event to see what happens, or summarize and apply the consequences immediately.
+You do not mark progress on a miss. Instead, you encounter a new danger. You might face hazards through the weather, the terrain, encounters with creatures or people, attacks from your enemies, or strange discoveries. Decide what happens based on your current circumstances and surroundings, roll on the Pay the Price table, or Ask for Inspiration for inspiration. Depending on your desired narrative pace, you can then play out the event to see what happens, or summarize and apply the consequences immediately.
 
 For example, you roll a miss and decide you encounter a broad, wild river which must be crossed to continue on your journey. If you want to focus on how you deal with the situation, play to see what happens by making moves. You might Secure an Advantage by exploring upriver for a ford and then Face Danger to cross. Or, if want to quickly push the story forward, you could fast-forward to a perilous outcome such as losing some provisions during the crossing (suffer -supply). Mix things up, especially on long journeys.
 
@@ -1561,7 +1561,7 @@ If you face an attack by an NPC foe, you use their rank to determine the amount 
 * Dangerous (2 harm): An attack by a skilled foe or deadly creature, a nasty injury, or a demanding effort.
 * Formidable (3 harm): An attack by an exceptional foe or mighty creature, a serious injury, or an exhausting effort.
 * Extreme (4 harm): An overwhelming attack by a monster or beast, a grievous injury, or a debilitating effort.
-* Epic (5 harm): An attack by a legendary foe of mythic power, a horrific injury, or a consuming effort.
+* Epic (5 harm): An attack by a legendary foe of great power, a horrific injury, or a consuming effort.
 
 If in doubt, make it dangerous (2 harm).
 
@@ -1910,8 +1910,8 @@ The next option is to ask a question and pick two viable results.
 
 * “Do I drop my sword or my shield?”
 * “Is it in the forest or the hills?”
-* “Does the elder bear try to pin me down, or does it bite?”
-* “Am I attacked by a horror, or a beast?”
+* “Does the bear try to pin me down, or does it bite?”
+* “Am I attacked by a person, or a beast?”
 * “Is this a formidable foe, or a dangerous one?”
 
 You rate one of those as ‘likely’, and roll on the table. If it’s a ‘yes’, the answer is your likely pick. If not, it’s the other. Use this approach when the answer is more open-ended, but you have a couple of options in mind.
@@ -2157,7 +2157,7 @@ An NPC (non-player character/creature) is anyone who inhabits your setting other
 
 Because gameplay in Ironsworn is centered on the abilities and actions of your character, NPCs are primarily represented through your fiction rather than mechanics. They don’t have stats, assets, or tracks. Instead, the sample NPCs in this chapter include some broad details to help guide their actions and the threat they pose in combat.
 
-When you interact with an NPC, envision their personality and motivations. A brutish character leverages their strength, or attempts to bully and intimidate. A sly character acts through manipulation or trickery. A noble character behaves according to her sense of honor. An animal, depending on its disposition, may attack when threatened or may run away. A supernatural being may act with mindless malice and hate for the living, or may have more complex needs. When you are unsure of an NPC’s traits or next action, Ask for Inspiration. Then, envision what they do and make moves to aid or oppose them as appropriate.
+When you interact with an NPC, envision their personality and motivations. A brutish character leverages their strength, or attempts to bully and intimidate. A sly character acts through manipulation or trickery. A noble character behaves according to her sense of honor. An animal, depending on its disposition, may attack when threatened or may run away. When you are unsure of an NPC’s traits or next action, Ask for Inspiration. Then, envision what they do and make moves to aid or oppose them as appropriate.
 
 ### Rank
 
@@ -2169,7 +2169,7 @@ NPCs have a single mechanical attribute, their rank. From this, their ability to
 | Dangerous   | Capable fighters and deadly creatures     | 2 progress per harm | Inflicts 2 harm |
 | Formidable  | Exceptional fighters and mighty creatures | 1 progress per harm | Inflicts 3 harm |
 | Extreme     | Foes of overwhelming skill or power       | 2 ticks per harm    | Inflicts 4 harm |
-| Epic        | Legendary foes of mythic power            | 1 tick per harm     | Inflicts 5 harm |
+| Epic        | Legendary foes                            | 1 tick per harm     | Inflicts 5 harm |
 
 When you engage a foe in combat, give them a standard progress track (10 boxes). When you Strike or Clash and inflict harm, mark progress for each point of harm based on the foe’s rank. For example, you mark 2 ticks for each point of harm inflicted on an extreme foe, and 2 progress (2 full boxes) for each point of harm against a dangerous foe.
 
@@ -2209,7 +2209,7 @@ When you inflict harm on the pack, you can envision it as appropriate to the fic
 
 ## Joining Forces with NPCs
 
-If your story leads you to cooperating with helper NPCs to overcome challenges, you need to consider how they impact the fiction and your moves. NPCs—unless they are a companion asset—won’t give you mechanical bonuses on your moves. They also won’t make moves of their own. They are simply a part of your story, perhaps impacting the moves you make, the results of those moves, and the rank of your challenges. Gaining the aid of an important NPC might also allow you to *Reach a Milestone*.
+If your story leads you to cooperating with helper NPCs to overcome challenges, you need to consider how they impact the fiction and your moves. NPCs — unless they are a companion asset — won’t give you mechanical bonuses on your moves. They also won’t make moves of their own. They are simply a part of your story, perhaps impacting the moves you make, the results of those moves, and the rank of your challenges. Gaining the aid of an important NPC might also allow you to *Reach a Milestone*.
 
 For example:
 
@@ -2229,33 +2229,6 @@ You should create NPCs that fit your version of the setting, enhance your story,
 If you face an NPC in combat, give them a rank. If you like, you can also make note of their drives and tactics. Otherwise, their motivations, abilities, and actions are entirely part of your fiction. They may ignore you, aid you, or oppose you. Make moves to resolve your intentions with them as appropriate. Springboard off those moves with new details and complications to flesh out these characters.
 
 For reoccurring NPCs, make note of what you learn of them over time. If you share a bond, mark it down.
-
-## Sample NPC
-
-> ## Wyvern
->
-> ### Wyvern's Rank
->
-> * Extreme (2 ticks per harm; inflicts 4 harm)
->
-> ### Wyvern's Features
->
-> * Huge, bat-like wings
-> * Rows of knife-sized teeth
-> * Thick hide with a metallic sheen
-> * Long tail
->
-> ### Wyvern's Drives
->
-> * Watch for prey from high above
-> * Feed
->
-> ### Wyvern's Tactics
->
-> * Swoop down
-> * Snap up prey
-> * Fearsome roar
-> * Bash with tail
 
 # PART SIX: INSPIRATION
 
