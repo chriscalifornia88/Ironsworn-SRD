@@ -106,7 +106,7 @@ However, your character is more than these mechanical bits. You are the protagon
 
 ### Moves
 
-Moves are self-contained systems to resolve a specific action, scene or question. There is a move for most common situations you encounter in Ironsworn. They have specific triggers, phrased as “When you \[blank\].” When your character does that thing, or you encounter that situation, refer to the move to see what happens.
+Moves are self-contained systems to resolve a specific action, scene or question. There is a move for most common situations you encounter in Ironsworn. They have specific triggers, phrased as “When you [blank].” When your character does that thing, or you encounter that situation, refer to the move to see what happens.
 
 Moves are organized by activities.
 
@@ -327,7 +327,7 @@ When you face physical injury or hardship, make the Endure Harm move. As part of
 * Extreme (4 harm): An overwhelming attack by a monster or beast, a grievous injury, or a debilitating effort.
 * Epic (5 harm): An attack by a legendary foe of mythic power, a horrific injury, or a consuming effort.
 
-When you are fighting a foe, they inflict harm based on their rank. Sample foes are in chapter 5.
+When you are fighting a foe, they inflict harm based on their rank. [Sample foes are found in part 4](#part-four-foes-and-encounters).
 
 If you are at 0 health, a miss on the Endure Harm move puts you at risk of suffering a debility or dying. You can recover health through rest and recuperation, using moves such as Heal, Make Camp, and Sojourn.
 
