@@ -521,7 +521,7 @@ Ironsworn assets are formatted as printable cards. Put them alongside your chara
 
 ### Asset Types
 
-There are three types of assets: Companions, and paths. You can mix-and-match assets as you like—whatever fits your vision for your character and their experiences and goals.
+There are two types of assets: Companions, and paths. You can mix-and-match assets as you like—whatever fits your vision for your character and their experiences and goals.
 
 #### Companions
 
