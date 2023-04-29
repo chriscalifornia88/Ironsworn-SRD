@@ -511,17 +511,6 @@ If you are maimed, envision the injury and make note of it. Consider how this im
 
 When you are corrupted, envision how this impacts your personality and motivations. You might struggle with a new compulsion, quirk, or fear. You might even bear a physical, sign of the corruption. If so, what is it?
 
-### Burdens
-
-* Cursed is marked when you Face Death and return with a soul-bound quest. This burden can only be cleared by completing the quest.
-* Tormented is marked when you Face Desolation and undertake a quest to prevent a dire future.
-
-Burdens are a result of life-changing experiences that leave you bound to quests. Clearing a burden can only be accomplished by resolving the quest.
-
-When you are cursed or tormented, you should consider the physical or emotional manifestations of these conditions. You have walked the lands beyond death or suffered visions of your greatest fears. What signs do you bear? How do these experiences affect your relationships?
-
-When you create your character, all debilities should be unmarked.
-
 ## Assets, Backgrounds, Skills, and Traits
 
 Assets represent your background, skills, and traits. They give you additional options and bonuses when making a move—or sometimes act as their own self-contained moves.
@@ -1573,13 +1562,7 @@ On a weak hit, you die, but not before making a noble sacrifice. Envision your f
 
 On a miss, you are dead.
 
-You make this move when forced to Face Death as a result of a miss on the Endure Harm move, or when you face a physical trauma so horrific that death is the only reasonable outcome. This move is (hopefully) rarely made and a chance for storytelling and for enriching your world and its myths. Make it dramatic and personal.
-
-When you first make this move, you should envision how the afterlife is represented in your setting, or specifically to your character. What do you see and experience? Is it only blackness and void? Do you see iron gates parting before you? Does a ferryman guide you across a blood-red river? Do you hear the songs of your kin calling you to the feast hall? On a strong hit, you might only catch glimpses of what lay beyond. Does your experience support your beliefs or call them into question? If in doubt, Ask for Inspiration.
-
-There is also the personage of death to consider. Does death take form, or is it nameless and unknowable? Is it beautiful and welcoming? Sly and full of guile? As grim as the coldest night? On a weak hit, you may decide what death asks of you, which leads to a new quest and the cursed debility as you return to the mortal world.
-
-On a miss, you are dead. Envision what awaits you. You may begin again with a new character, or explore your current world and storyline from a new perspective. Perhaps your kin will avenge you?  
+You make this move when forced to Face Death as a result of a miss on the Endure Harm move, or when you face a physical trauma so horrific that death is the only reasonable outcome. This move is (hopefully) rarely made and a chance for storytelling and for enriching your world. Make it dramatic and personal.
 
 ### Companion Endure Harm
 
@@ -1665,10 +1648,6 @@ On a weak hit, your spirit or sanity breaks, but not before you make a noble sac
 On a miss, you succumb to despair and are lost.
 
 You make this move when forced to Face Desolation as a result of a miss on the Endure Stress move. This represents the potential breaking point for your character. Do you push on in spite of all you have seen, all you have done, or do you fall into darkness?
-
-Choosing the option to become tormented on a weak hit creates interesting story possibilities. What is your greatest fear? Preventing that dire outcome can steer your story in a compelling new direction.
-
-On a miss, you are broken. There is no recovery possible. This is the end of your character’s story.
 
 ### Out of Supply
 
