@@ -358,8 +358,6 @@ Other equipment provides narrative benefit. It enables you to make moves where t
 
 For example, you need to make your way down a steep rock face. Without assistance, you’d make a Face Danger move to see what happens. If you had rope, the climb is not particularly risky or uncertain. In that case, you might skip the move and just narrate the result.
 
-Specific assets can make equipment more important and relevant to your character. For example, combat talent assets represent your expertise in a particular weapon or fighting style. When you wield an appropriate weapon, you gain the benefit of the asset.
-
 Apart from assets, you can make note of equipment at whatever level of detail you like, but don’t fuss over it. If you’re wondering whether you have a particular mundane item, you can Ask for Inspiration.
 
 ## The Flow of Play
@@ -534,7 +532,7 @@ Ironsworn assets are formatted as printable cards. Put them alongside your chara
 
 ### Asset Types
 
-There are four types of assets: Companions, paths, and combat talents. You can mix-and-match assets as you like—whatever fits your vision for your character and their experiences and goals.
+There are three types of assets: Companions, and paths. You can mix-and-match assets as you like—whatever fits your vision for your character and their experiences and goals.
 
 #### Companions
 
@@ -545,12 +543,6 @@ Companions utilize a health track and may suffer harm as a result of one of your
 #### Paths
 
 Paths represent your background, interests, training, and skills. They provide mechanical and narrative advantages, but also reflect who you are and how you interact with the world. Choosing both those paths can reflect an evolution of your character or an interesting background.
-
-#### Combat Talents
-
-Ironsworn characters are assumed to be skilled fighters. Even without a combat talent, you can wield weapons and perform combat moves. A combat talent reflects a particular area of expertise, and gives you additional options and bonuses.
-
-Combat talent assets typically require you to wield a specific weapon, as noted in the asset text. For example, if you are a Shield-Bearer and don’t have a shield at the ready, you can’t use the asset’s abilities.
 
 ### Acquiring Assets
 
@@ -627,7 +619,7 @@ To start, your experience is unmarked.
 
 ## Equipment You Carry
 
-Make note of any important equipment or items you start with. These are things that might impact the narrative and the moves you make, or provide texture to your character’s background. They don’t offer mechanical bonuses unless they are represented by an asset, such as a weapon used in a combat talent.
+Make note of any important equipment or items you start with. These are things that might impact the narrative and the moves you make, or provide texture to your character’s background. They don’t offer mechanical bonuses unless they are represented by an asset.
 
 You can assume you are equipped for travel and adventure as represented by your supply track. Don’t worry about managing rations or ammo or other mundane necessities.
 
@@ -720,8 +712,6 @@ Weapons have implied characteristics. Light axes, knives, or spears can be throw
 Similarly, you can envision yourself relying on armor as you like. Do you wear crudely stitched hides for protection? Perhaps a fine shirt of mail handed down from your kin? Do you hide your face within a visored iron helm? How does your armor affect your combat stance and tactics?
 
 You can lose a weapon, run out of ammo, or see your armor damaged as a result of a failed move. This can be represented mechanically through a loss of momentum. Or, you might Endure Stress if an item of sentimental value is destroyed. Losing access to a weapon also limits your ability to inflict harm (1 harm instead of 2). Always start with the fiction. What moves does this item allow you to make or avoid? What happens when you no longer have it?
-
-If you have a combat talent asset, your weapon and armor may provide additional benefit through abilities. As long as you carry the item, you may use those abilities.
 
 ### Initiative
 
@@ -2049,7 +2039,6 @@ Features:
 * Birdsong interspersed with sudden, unsettling stillness 
 * Ironlanders, foraging and hunting game 
 * Hungry beasts, stalking 
-* Varou bands, howling their war song
 
 This high terrain consists of a long string of forested hills.
 
